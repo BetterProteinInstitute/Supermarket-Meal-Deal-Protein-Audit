@@ -4,3 +4,9 @@ The file titled 'Meal deal paper data - raw' contains the raw data collected fro
 
 The file titled 'Meal deal paper data - lightly cleaned' contains the raw data collected from the meal deal items included in the study, but which had been lightly cleaned. More infomration about how this data was cleaned can be found below.
 
+Collecting the raw data:
+The protein content of each product item was identified by the researchers finding each product's product page and identifying the protein content per pack/item.
+
+Fruit represented a unique challenge given the varied weight. The difference in weight could be significant e.g. a loose piece of fruit could range between 100 - 200 g, but this didn't lead to a significant difference in protein value given the low protein content per 100g, so even e.g. the higher weight fruit were still under 2 gram protein in total. Therefore, we were comfortable giving every fruit a protein value of 2g per product. We selected this higher end estimate given that our findings critique low protein values, and therefore this enabled us to better stress test our hypothesis.('2.0' in the data and coloured purple)
+
+This was also the case for waters, sodas, fruit-flavoured drinks (not juices), energy drinks, iced tea, and coconut water. All of these products had protein contents of 0-1 g. Accordingly the researchers were comfortable that a generic score of 0.5 gram per product would cover any product (0.5 in the data).
