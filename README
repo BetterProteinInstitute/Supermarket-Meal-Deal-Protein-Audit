@@ -4,7 +4,7 @@ The file titled 'Meal deal paper data - raw' contains the raw data collected fro
 
 The file titled 'Meal deal paper data - lightly cleaned' contains the raw data collected from the meal deal items included in the study, but which had been lightly cleaned. More infomration about how this data was cleaned can be found below.
 
-Collecting the raw data:
+COLLECTING THE RAW DATA:
 The protein content of each product item was identified by the researchers finding each product's product page and identifying the protein content per pack/item.
 
 Unlike all the other supermarkets, Asda's products were not categorised into mains, sides, and snacks. Therefore, this was done by the researchers and so it should be recognised that this could have introduced a margin of error. 
@@ -18,4 +18,4 @@ The second exception was for waters, sodas, fruit-flavoured drinks (not juices),
 
 For some items, such as the 'Deliciously Ella 50g Cacao & Almond Energy Snack Bar' from Sainsburys’, the product name includes the statment that the product is 50 g. However, the mass on the packet and the number per pack in the label is 40g. In this instance, and instances like it, the weight stated on the back of the packet was used.
 
-
+LIGHT CLEANING OF DATA:
