@@ -19,3 +19,7 @@ The second exception was for waters, sodas, fruit-flavoured drinks (not juices),
 For some items, such as the 'Deliciously Ella 50g Cacao & Almond Energy Snack Bar' from Sainsburys’, the product name includes the statment that the product is 50 g. However, the mass on the packet and the number per pack in the label is 40g. In this instance, and instances like it, the weight stated on the back of the packet was used.
 
 LIGHT CLEANING OF DATA:
+Any values that included a '<', such as '<0.5' were cleaned by removing the '<' and reducing the value by 0.1.
+
+Any values that were 'unknown'
+Duplicate products within one supermarket's list were removed
