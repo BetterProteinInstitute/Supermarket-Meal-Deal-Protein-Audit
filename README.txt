@@ -1,13 +1,15 @@
-# Supermarket Meal Deal Protein Audit 2026
+SUPERMARKET MEAL DEAL PROTEIN AUDIT 2026
 
-## Oveview
+
+-- OVERVIEW --
 This GitHub repository contains the data collected and analysed by Macdonald & Macdonald, 2026.
 
 The file titled 'Meal deal paper data - raw' contains the raw data collected from the meal deal items included in the study. More information about how this data collected can be found below.
 
 The file titled 'Meal deal paper data - lightly cleaned' contains the raw data collected from the meal deal items included in the study, but which had been lightly cleaned. More infomration about how this data was cleaned can be found below.
 
-## Raw data collection
+
+-- RAW DATA COLLECTION --
 The audit sought to identify the meal deal items that each of the six supermarkets under study offered. 
 
 While some supermarkets offered 'Premium meal deal's, others did not, and so it was decided that only 'Standard' meal deals at each supermarket would be included in this study to keep this uniform across all supermarkets. 
@@ -36,7 +38,9 @@ The first exception was for fruit. Fruit represented a unique challenge given di
 
 The second exception was for waters, sodas, fruit-flavoured drinks (not juices), energy drinks, iced tea, and coconut water. All of these products had protein contents of 0-1 g. Accordingly the researchers were comfortable that a generic score of 0.5 gram per product would be appropriate for representing any of these drink products. The cases where this 0.5 grams of protein value was used is indicated in the data spreadsheet as it is coloured pink.
 
-## Data cleaning protocol
+
+
+-- DATA CLEANING PROTOCOL --
 Any values that included a '<', such as '<0.5' were cleaned by removing the '<' and reducing the value by 0.1.
 
 Any values that were listed as having a 'negligible amount' of protein per item were replaced with a value of 0.
