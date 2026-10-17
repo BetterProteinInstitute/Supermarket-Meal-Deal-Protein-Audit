@@ -1,7 +1,7 @@
 # Supermarket Meal Deal Protein Audit 2026
 
 ## Oveview
-This GitHub repository contains the data collected and analysed for the Macdonald & Macdonald 2026/7 **paper titled '_'**.
+This GitHub repository contains the data collected and analysed by Macdonald & Macdonald, 2026.
 
 The file titled 'Meal deal paper data - raw' contains the raw data collected from the meal deal items included in the study. More information about how this data collected can be found below.
 
