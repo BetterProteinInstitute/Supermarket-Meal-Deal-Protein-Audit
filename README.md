@@ -1,4 +1,4 @@
-# Supermarket Meal Deal Protein Audit 1
+# Supermarket Meal Deal Protein Audit 2026
 
 ## Oveview
 This GitHub repository contains the data collected and analysed for the Macdonald & Macdonald 2026/7 **paper titled '_'**.
