@@ -10,6 +10,7 @@ The file titled 'Meal deal paper data - lightly cleaned' contains the raw data c
 
 The file titled 'Meal deal paper data - lightly cleaned - overview' contains the an overview of various pieces of the cleaned data, including the average protein content of a vegan and a non-vegan meal deal (weighted by supermarket or by item), the number of mains, sides, and drinks, by supermarket as well as their totals, the average protein content of items' and supermarkets' mains, sides, and drinks, and also the ranking of the top 10% of the mains.
 
+
 -- RAW DATA COLLECTION --
 The audit sought to identify the meal deal items that each of the six supermarkets under study offered. 
 
@@ -38,7 +39,6 @@ All values in the data are coloured green, apart from on two occasions.
 The first exception was for fruit. Fruit represented a unique challenge given different individual items' varied weight - despite being of the same type. Furthermore, the difference in weight of different fruit types could be significant e.g. a loose piece of fruit could range between 100 - 200 g, but since this didn't lead to a significant difference in protein value given the low protein content per 100g, every piece of fruit was listed as having a protein value of 2 grams of protein per item. This value was on the highest end of the ranges of actual protein contents when sampling some fruit products, but we selected this higher end estimate given that our findings critique low protein values, and therefore this enabled us to better stress test our hypothesis. The cases where this 2 grams of protein value was used is indicated in the data spreadsheet as it is coloured purple.
 
 The second exception was for waters, sodas, fruit-flavoured drinks (not juices), energy drinks, iced tea, and coconut water. All of these products had protein contents of 0-1 g. Accordingly the researchers were comfortable that a generic score of 0.5 gram per product would be appropriate for representing any of these drink products. The cases where this 0.5 grams of protein value was used is indicated in the data spreadsheet as it is coloured pink.
-
 
 
 -- DATA CLEANING PROTOCOL --
